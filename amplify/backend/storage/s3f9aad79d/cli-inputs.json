@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3f9aad79d",
+  "policyUUID": "f9aad79d",
+  "bucketName": "todo-images",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
